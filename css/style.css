@@ -1,0 +1,50 @@
+img{ 
+    width: 350px; 
+     
+} 
+.img0{ 
+    border-radius: 60%; 
+} 
+#img1{ 
+    opacity: 0.5; 
+} 
+h1{ 
+    color:darkslateblue; 
+    font: size 75px;; 
+    font: weight 600px;;     
+} 
+h2{ 
+    color: rgb(10, 94, 52); 
+} 
+span{ 
+    color: rgb(56, 223, 129); 
+} 
+.b1{ 
+    background-color: rgb(59, 198, 219); 
+    border-radius:0lvb; 
+    color: beige; 
+    padding: 10px 10px 10px 10px; 
+    margin: 60; 
+} 
+.b2{ 
+    background-color: rgb(255, 0, 204); 
+    border-radius:0lvb; 
+    color: rgb(245, 220, 239); 
+    padding: 10px 10px 10px 10px; 
+    margin: 60; 
+} 
+.cub0{ 
+    width: 80px; 
+    height: 80px; 
+    background-color: rgb(195, 255, 0); 
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.cub1{ 
+    width: 80px; 
+    height: 80px; 
+    background-color: rgb(255, 166, 0); 
+    margin: 15px;
+    border-radius: 65px;
+}
